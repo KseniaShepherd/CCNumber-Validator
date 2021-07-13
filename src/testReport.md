@@ -7,10 +7,8 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [Дефект 1](https://github.com/KseniaShepherd/CCNumber-Validator/issues/1)
-* [Дефект 2](https://github.com/KseniaShepherd/CCNumber-Validator/issues/2)
-* [Дефект 3](https://github.com/KseniaShepherd/CCNumber-Validator/issues/3)
-* [Дефект 4](https://github.com/KseniaShepherd/CCNumber-Validator/issues/4)
+* [Отображение неверного сообщения в консоли после запуска программы валидации номера банковской карты при вводе номера карты платежной системы VISA](https://github.com/KseniaShepherd/CCNumber-Validator/issues/1)
+* [Отображение неверного сообщения в консоли после запуска программы валидации номера банковской карты при вводе номера карты платежной системы American Express (AMEX)](https://github.com/KseniaShepherd/CCNumber-Validator/issues/3)
 
 ## Описание процесса тестирования
 
